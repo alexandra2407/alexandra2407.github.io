@@ -125,4 +125,25 @@
 	margin-left: 100px;
 	margin-right: 100px;
 	text-align: center;
+} 
+#prueba {
+	background:#FB945F;
+	height: 200%
+}
+#prueba {
+	height: 70px;
+}
+#enunciado {
+	background-color: #FF8E5B;
+	height: 70px;
+	position:relative;
+}
+#enunciado div {
+	position: absolute;
+	top:50%;
+	left:50%;
+	
+}
+#enunciado p {
+	font-size: 1.3em;
 }
