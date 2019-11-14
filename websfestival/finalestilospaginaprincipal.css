@@ -1,0 +1,95 @@
+
+
+#enunciado {
+	background-image:url(IMAGENES/portada3.jpg);
+	background-size: cover;
+	height: 300px;
+	position:relative;
+	text-align: center;
+	background-position: right;
+}
+#enunciado div {
+	position: absolute;
+	top:50%;
+	left:50%;
+	color: #FFFFFF;
+	font-size: 90px;
+	transform:translate(-50%,-50%);
+	
+}
+
+header{
+	background-color: #2E47AD;
+}
+
+nav {
+	padding:10px;
+}
+
+nav a {
+	text-decoration: none;
+	color:#fff;
+	font-size: 1em;
+}
+nav a:hover{
+	color: #2A0000;
+}
+nav a:active{
+	color: #f00;
+}
+nav a:visited{
+	color: #EE0000;
+}
+nav ul {
+	text-align:center;
+	margin: 0;
+padding: 0;
+}
+
+nav li{
+	display: inline-block;
+	margin-left: 20px;
+	
+}
+
+body {
+	background-color: #FFFFFF;
+	padding: 0;
+	margin: 0;
+}
+
+main {
+	width: 80%;
+	margin: 0 auto;
+	max-width: 1024px;
+	background-color: #F5F5F5;
+}
+
+
+section {
+	width: 80%;
+	margin: 0 auto;
+}
+#tres{
+	font-size: 30px;
+	font-style: italic;
+	font-weight: 800;
+}
+#siete{
+	font-size: 30px;
+	font-style: italic;
+	font-weight: 800;
+}
+#footer {
+	background:#2E47AD;
+	text-align: center;
+	
+}
+#footer div{
+	
+	top:20%;
+	left:20%;
+	color: #FFFFFF;
+	font-size: 50px;
+	transform:center;
+}
