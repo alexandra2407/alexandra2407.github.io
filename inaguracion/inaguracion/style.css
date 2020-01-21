@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+.hero-principal {
+	background-image: url(imagenes/1501166895_180611_1501167067_noticia_normal.jpg);
+	background-size: cover;
+	width:auto;
+	height:100vh;
+	display:flex;
+	align-items:center;
+	margin: auto;
+}
+.azul{
+	background-color:#0A4757;
+}
+
+.blanco{
+	background-color: rgba(255,255,255,1.00);
+	color: rgba(255,255,255,1.00);
+}
+.azul1{
+	color:#0A4757;
+	font-size: 3em;
+	
+}
+
+h8{
+	font-size: 2
+}
+.cuadro{
+	background-color: rgba(134,192,236,0.48);
+	
+}
+
+.barra {
+	width:50px;
+	height:80vh;
+	position:fixed;
+	top:0;
+	left:0;
+	
+}
+
+
+.display-5 {
+	text-align: center;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+
+
+
+
+
+
