@@ -1,0 +1,111 @@
+@charset "utf-8";
+
+body{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+}
+.bg-primary{
+	background-color: #FF9800  !important;
+	text-align: center;
+	font-size: 2em;
+}
+.bg-warning{
+	background-color: #FF9800  !important;
+	width: 80%;
+	margin: 0 auto;
+}
+
+#enunciado {
+	background-image:url(imagenes/venecia7.jpg);
+	background-size: cover;
+	height: 300px;
+	position:relative;
+	text-align: center;
+	background-position: center;
+
+}
+
+header{
+	background-color: #FF9D00;
+}
+
+nav {
+	padding:10px;
+}
+
+nav a {
+	text-decoration: none;
+	color:#fff;
+	font-size: 3em;
+}
+nav ul {
+	text-align:center;
+	margin: 0;
+	padding: 0;
+}
+
+nav li{
+	display: inline-block;
+	margin-left: 20px;
+	
+}
+
+body {
+	background-color: #FFFFFF;
+	padding: 0;
+	margin: 0;
+}
+
+main {
+	width: 80%;
+	margin: 0 auto;
+	max-width: 1024px;
+	background-color: #F5F5F5;
+}
+
+section {
+	width: 80%;
+	margin: 0 auto;
+	
+}
+#imagen{
+	width: 100%;
+	margin: 0 auto;
+	height: 500px;
+	position:relative;
+	background-image:url(imagenes/VENECIA.jpg);
+	background-size: cover;
+	background-position: bottom;
+
+	
+}
+
+#imagen2{
+	width: 100%;
+	margin: 0 auto;
+	height: 500px;
+	position:relative;
+	background-image:url(imagenes/venecia2.jpg);
+	background-size: cover;
+	background-position: bottom;
+}
+	
+mark{
+	font-style: oblique;
+}
+div{
+	width: 80%;
+	margin: 0 auto;
+}
+#footer {
+	background:#FF9D00;
+	text-align: center;
+	
+}
+#footer div{
+	top:20%;
+	left:20%;
+	color: #FFFFFF;
+	font-size: 50px;
+	transform:center;
+}
