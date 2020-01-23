@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+#imagen{
+	position:relative;
+	align-content: center;
+	margin-left: 400px;
+	margin-right: 400px;
+}
+
+
+.hero{
+	width: 100vw;
+	height: 0vh;
+	position: relative;
+	
+	
+	
+}
+
+
+
+.cuadro2, .cuadro3 {
+	position: relative;
+	transform: translate(20%, -20% );
+	
+}
+
+
+.cuadro2, .cuadro3 {
+	animation: animacioncirculo 5s  alternate ease-out;
+	
+}
+
+#Capa_1{
+	height: 300px;
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 100px;}
+
+@keyframes animacioncirculo {
+	
+	from{
+		transform: translate(550px);
+			
+	}
+	
+	to {
+		transform: translate(0px);
+		
+	}
+	
+}
+.bg-success{
+	background-color: #BBC1FD!important;
+}
+
+.cuadro {
+	animation: animacioncirculo 5s  alternate ease-out;
+	
+}
+
