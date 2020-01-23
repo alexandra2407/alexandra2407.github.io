@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+i{
+	background-color: #E30E11;
+	font-size: 70px;
+	
+	
+}
+
+i:hover{
+	color: #FFFFFF;
+}
+
+.redes i{
+	border-radius: 100%;
+	padding: 25px;
+}
+
+
+.titulos{
+	text-align: center;
+}
+
+#paises{
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.principios{
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#texto{
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 20px;
+}
