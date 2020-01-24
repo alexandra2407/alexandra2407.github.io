@@ -1,0 +1,149 @@
+#imagen1 {
+	margin-left: 300px;
+	margin-right: 300px;
+}
+#titulo {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+}
+#titulo2 {
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: #93FCA9;
+}
+#parrafo1 {
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#parrafo2 {
+	margin-left: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 100px;
+	text-align: center;
+}
+#imagen2 {
+	margin-left: 300px;
+	margin-right: 300px;
+}
+#parrafo3 {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+#imagen3 {
+	margin-left: 300px;
+	margin-right: 300px;
+}
+#parrafo4 {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+#parrafo5 {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+#parrafo6 {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+#parrafo7 {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+#imagen4 {
+	margin-left: 300px;
+	margin-right: 300px;
+}
+#titulo3 {
+	text-align: center;
+	background-color: #8CFF95;
+}
+#parrafo8 {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+#parrafo9 {
+	margin-top: 20px;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+#parrafo10 {
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-right: 100px;
+	margin-left: 100px;
+	text-align: center;
+}
+#parrafo11 {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+#parrafo12 {
+	margin-right: 100px;
+	margin-bottom: 20px;
+	margin-left: 100px;
+	margin-top: 20px;
+	text-align: center;
+}
+#parrafo13 {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+#parrafo14 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+} 
+#prueba {
+	background:#FB945F;
+	height: 200%
+}
+#prueba {
+	height: 70px;
+}
+#enunciado {
+	background-color: #FF8E5B;
+	height: 70px;
+	position:relative;
+}
+#enunciado div {
+	position: absolute;
+	top:50%;
+	left:50%;
+	
+}
+#enunciado p {
+	font-size: 1.3em;
+}
